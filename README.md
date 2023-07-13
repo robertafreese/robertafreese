@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertafreese
 - 👀 I’m interested in Powershell
-- 🌱 I’m currently learning Powershell
-- 💞️ I’m looking to collaborate on Powershell
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on new platforms
 - 📫 How to reach me ... the contact page
 
 <!---
